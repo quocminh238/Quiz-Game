@@ -7,9 +7,11 @@
 <p align="center">"Let's sharp your brain!"</p>
 
 ## 📖 Description
-- This is a simple iOS Application using Swift language and SwiftUI which target to provide list of questions with multiple choices for player to answer as soon as and also as many as they can.
-- The app contains mainly 5 Views including Welcome Views, Info View, Menu View, Game View and Leaderboard View by applying MVVM Architecture and NavigationLink as well as button to link to other screens. In addition, the app used the ScrollView to create carousel slider for images and also used the LazyVGrid to display many destinations as a table list which enhance the user experience during using the app.
-- Extra Feature of this app is using the Map to display the location of each scenic area on the map.
+- This is a simple iOS Game App using Swift and SwiftUI languages to provide a list of multiple choice questions for players to test their knowledge.
+- The app contains mainly 5 Views including Welcome Views, Info View, Menu View, Game View and Leaderboard View. By controlling the States to navigate the Views during the game instead of using NavigationView and NavigationLink.
+- The app is applied Model–View–ViewModel (MVVM) Architecture with ViewModel file is the place where contain whole the logics and functions to make the game work. 
+- Furthermore, the app also has sound effects for each View and button which enhance the user experience during using the app.
+- Extra Feature of this app is that Player can choose the one of three difficulty modes in Menu View before the game they play to make the game harder. Another extra feature is that Leaderboard View shows different player achievement when they reach new milestones in the game.
 
 <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/WelcomeView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/InfoView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/MenuView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/GameView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/LeaderboardView.png" width="239" >
 
