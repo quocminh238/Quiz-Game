@@ -16,7 +16,19 @@
 <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/WelcomeView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/InfoView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/MenuView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/GameView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/LeaderboardView.png" width="239" >
 
 ## 🔮 Live Demo (Animation GIF)
+<table>
+  <tr>
+    <td>WelcomeView + Infomation PopUp + MenuView</td>
+     <td>MenuView + GameView</td>
+    <td>GameView + LeaderboardView</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/WelcomeView%2BInfoView%2BMenuView.gif" width="280"></td>
+    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/MenuView%2BGameview.gif" width="280"></td>
+    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/GameView%2BLeaderboardView.gif" width="280"></td>
+   </tr>
 
+ </table>
 
 
 ## 🔧 Build Information
