@@ -35,7 +35,7 @@
 - XCode 13.4.1
 - SwiftUI Framework
 - Targetting iOS >= 15.5
-- Library: AVFoundation
+- Library: AVFoundation for playing sound effects
 - Work best on Iphone 12
 
 
