@@ -18,7 +18,7 @@
 ## 🔮 Live Demo (Animation GIF)
 <table>
   <tr>
-    <td>WelcomeView + Infomation PopUp + MenuView</td>
+    <td>WelcomeView + InfomationView + MenuView</td>
      <td>MenuView + GameView</td>
     <td>GameView + LeaderboardView</td>
   </tr>
