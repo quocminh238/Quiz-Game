@@ -8,7 +8,7 @@
 
 ## 📖 Description
 - This is a simple iOS Game App using Swift and SwiftUI languages to provide a list of multiple choice questions for players to test their knowledge.
-- This is an upgraded and more complete version of Harsivo Edu's Quiz game that I learned on youtube and the basics of SwiftUI in University.
+- This is an upgraded and more complete version of Harsivo Edu's Quiz game that I learned on youtube and the basics knowldege of SwiftUI at University.
 - The app contains mainly 5 Views including Welcome Views, Info View, Menu View, Game View and Leaderboard View. By controlling the States to navigate the Views during the game instead of using NavigationView and NavigationLink.
 - The app is applied Model–View–ViewModel (MVVM) Architecture with ViewModel file is the place where contain whole the logics and functions to make the game work. 
 - Furthermore, the app also has sound effects for each View and button which enhance the user experience during using the app.
